@@ -1,0 +1,20 @@
+{
+  "name": "lyfh_xkey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwsea/lyfh_xkey"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rurb_xid": "^1.0.0",
+    "grem_xid": "^1.0.0"
+  }
+}
